@@ -1,0 +1,7 @@
+cat << 'EOF' > .gitignore
+__pycache__/
+.ipynb_checkpoints/
+VOCdevkit/
+datasets/
+VOC/
+EOF
